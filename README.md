@@ -14,6 +14,7 @@ PURPOSE:
 	facebook and whatsapp , for the students of NITH.
 	
 INSTALLATIONS:
+
 	Install node, npm, faye modules 
 	
 
@@ -27,7 +28,7 @@ HOW TO RUN:
 	
 	Run the command : node full_server.js
 	
-	Open another tab in the terminal and in the same folder
+	Open another tab using Ctrl+Shift+T in the terminal and under the same folder
 	
 	Run the command: node faye_server.js
 	
